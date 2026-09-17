@@ -1,0 +1,41 @@
+﻿# ===== C/C++ 编译产物（绝不该提交）=====
+*.exe
+*.o
+*.obj
+*.out
+*.a
+*.lib
+*.dll
+*.pdb
+*.ilk
+*.gch
+*.d
+*.stackdump
+*.dSYM/
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ===== 编辑器/IDE 临时文件 =====
+*.swp
+*.swo
+*~
+.vs/
+
+# ===== 密钥与配置（绝不提交）=====
+.env
+*.key
+*.pem
+
+# ===== 系统与临时文件 =====
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# 注意：.vscode/ 故意不忽略！团队/换机时靠它恢复编译调试配置
