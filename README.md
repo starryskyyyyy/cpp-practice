@@ -30,3 +30,7 @@ g++ 文件名.cpp -o 文件名
 cd python
 python 文件名.py
 ```
+
+## 学习进度
+
+- 已配置 Git + SSH 代理，推送正常
