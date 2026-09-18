@@ -34,3 +34,5 @@ python 文件名.py
 ## 学习进度
 
 - 已配置 Git + SSH 代理，推送正常
+
+- 理解了 commit 与 push 的区别
